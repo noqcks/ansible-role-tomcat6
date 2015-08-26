@@ -36,3 +36,4 @@
     state: started
     enabled: yes
   when: tomcat6_enabled
+
